@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="./dorfonaltz-hero.svg" width="100%" alt="Dorfonaltz — Human After All"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&pause=800&color=00E5FF&center=true&vCenter=true&width=820&lines=BOOTING+DORFONALTZ.SYS...;PYTHON+%E2%80%A2+AUTOMATION+%E2%80%A2+ARTIFICIAL+INTELLIGENCE;BUILD+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+IMPROVE+%E2%86%92+REPEAT;HUMAN+AFTER+ALL" alt="Typing animation"/>
+<img src="./assets/dorfonaltz-hero.svg" width="100%" alt="Dorfonaltz — Human After All"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-001014?style=for-the-badge&labelColor=001014&color=00DFF7" />
-<img src="https://img.shields.io/badge/MODE-HUMAN_AFTER_ALL-001014?style=for-the-badge&labelColor=001014&color=FF8C00" />
-<img src="https://komarev.com/ghpvc/?username=Dorfonaltz&label=PROFILE%20VIEWS&color=00DFF7&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&pause=800&color=FF1F2D&center=true&vCenter=true&width=820&lines=BOOTING+DORFONALTZ.SYS...;PYTHON+%E2%80%A2+AUTOMATION+%E2%80%A2+ARTIFICIAL+INTELLIGENCE;BUILD+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+IMPROVE+%E2%86%92+REPEAT;HUMAN+AFTER+ALL" alt="Typing animation"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-120003?style=for-the-badge&labelColor=120003&color=FF1F2D" />
+<img src="https://img.shields.io/badge/MODE-HUMAN_AFTER_ALL-120003?style=for-the-badge&labelColor=120003&color=FF3B4E" />
+<img src="https://komarev.com/ghpvc/?username=Dorfonaltz&label=PROFILE%20VIEWS&color=FF1F2D&style=for-the-badge" />
 
 </div>
 
-<img src="./neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
 01 // IDENTITY
 
@@ -49,7 +51,7 @@ UPTIME ......... ∞
 
 Entre humano e máquina, eu prefiro a conexão.Ideia humana. Lógica digital. Execução inteligente.
 
-<img src="./neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
 02 // LOADOUT
 
@@ -59,12 +61,12 @@ Entre humano e máquina, eu prefiro a conexão.Ideia humana. Lógica digital. Ex
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PYTHON-02070A?style=for-the-badge&logo=python&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/HTML5-02070A?style=for-the-badge&logo=html5&logoColor=FF8C00" />
-<img src="https://img.shields.io/badge/AUTOMATION-02070A?style=for-the-badge&logo=githubactions&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/OPENAI-02070A?style=for-the-badge&logo=openai&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/GIT-02070A?style=for-the-badge&logo=git&logoColor=FF8C00" />
-<img src="https://img.shields.io/badge/GITHUB-02070A?style=for-the-badge&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/PYTHON-090002?style=for-the-badge&logo=python&logoColor=FF1F2D" />
+<img src="https://img.shields.io/badge/HTML5-090002?style=for-the-badge&logo=html5&logoColor=FF3B4E" />
+<img src="https://img.shields.io/badge/AUTOMATION-090002?style=for-the-badge&logo=githubactions&logoColor=FF1F2D" />
+<img src="https://img.shields.io/badge/OPENAI-090002?style=for-the-badge&logo=openai&logoColor=FF1F2D" />
+<img src="https://img.shields.io/badge/GIT-090002?style=for-the-badge&logo=git&logoColor=FF3B4E" />
+<img src="https://img.shields.io/badge/GITHUB-090002?style=for-the-badge&logo=github&logoColor=FF1F2D" />
 
 <br><br>
 
@@ -72,7 +74,7 @@ APIs • AI • Automation • Web • Scripts • Tools • Experiments
 
 </div>
 
-<img src="./neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
 03 // AI INTERFACE
 
@@ -118,19 +120,19 @@ Automação, ferramenta ou projeto real.
 
 </div>
 
-<img src="./neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
 04 // TELEMETRY
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorfonaltz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=02070A&title_color=00E5FF&text_color=D6F8FF&icon_color=FF8C00" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorfonaltz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=090002&title_color=FF1F2D&text_color=FFE8EA&icon_color=FF3B4E" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorfonaltz&layout=compact&langs_count=8&hide_border=true&bg_color=02070A&title_color=00E5FF&text_color=D6F8FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorfonaltz&layout=compact&langs_count=8&hide_border=true&bg_color=090002&title_color=FF1F2D&text_color=FFE8EA" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Dorfonaltz&hide_border=true&background=02070A&ring=00E5FF&fire=FF8C00&currStreakLabel=00E5FF&sideLabels=D6F8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=78AAB3" />
+<img src="https://streak-stats.demolab.com?user=Dorfonaltz&hide_border=true&background=090002&ring=FF1F2D&fire=FF3B4E&currStreakLabel=FF1F2D&sideLabels=FFE8EA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B98A90" />
 
 </div>
 
@@ -138,11 +140,11 @@ Automação, ferramenta ou projeto real.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dorfonaltz&bg_color=02070A&color=B9F7FF&line=00E5FF&point=FF8C00&area=true&area_color=003A46&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dorfonaltz&bg_color=090002&color=FFD6DA&line=FF1F2D&point=FF3B4E&area=true&area_color=3A0008&hide_border=true" width="100%" />
 
 </div>
 
-<img src="./neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
 05 // PROJECT GRID
 
@@ -186,7 +188,7 @@ Projetos web e interfaces.
 
 Quando seus próximos repositórios estiverem prontos, esta área pode virar uma central com os projetos reais e links diretos.
 
-<img src="./neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
 06 // CURRENT TRANSMISSION
 
@@ -201,7 +203,7 @@ Quando seus próximos repositórios estiverem prontos, esta área pode virar uma
 │ [>] New technologies ........................... LOADING  │
 └────────────────────────────────────────────────────────────┘
 
-<img src="./neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
 <div align="center">
 
@@ -214,7 +216,7 @@ IDEAS // LOGIC // RHYTHM // CREATION
 <br>
 
 <a href="https://github.com/Dorfonaltz">
-  <img src="https://img.shields.io/badge/ENTER_THE_GRID-DORFONALTZ-001014?style=for-the-badge&logo=github&logoColor=00E5FF&color=001014" />
+  <img src="https://img.shields.io/badge/ENTER_THE_GRID-DORFONALTZ-120003?style=for-the-badge&logo=github&logoColor=FF1F2D&color=120003" />
 </a>
 
 <br><br>
