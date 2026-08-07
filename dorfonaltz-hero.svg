@@ -1,0 +1,93 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#02060A"/>
+      <stop offset="0.52" stop-color="#061018"/>
+      <stop offset="1" stop-color="#02060A"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="170" y1="0" x2="1030" y2="0">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#74F7FF"/>
+      <stop offset="1" stop-color="#00A8FF"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="350" y1="0" x2="850" y2="0">
+      <stop stop-color="#FF6A00"/>
+      <stop offset="0.5" stop-color="#FFB000"/>
+      <stop offset="1" stop-color="#FF6A00"/>
+    </linearGradient>
+    <filter id="cyanGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="orangeGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 24" fill="none" stroke="#00D9FF" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <clipPath id="gridClip">
+      <path d="M0 255 H1200 V430 H0 Z"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="430" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="17" stroke="#0DDDF4" stroke-opacity="0.32" stroke-width="2"/>
+
+  <!-- top circuitry -->
+  <path d="M0 74 H176 L214 112 H318" stroke="#00E5FF" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="318" cy="112" r="4" fill="#00E5FF" filter="url(#cyanGlow)"/>
+  <path d="M1200 74 H1024 L986 112 H882" stroke="#00E5FF" stroke-opacity=".55" stroke-width="2"/>
+  <circle cx="882" cy="112" r="4" fill="#00E5FF" filter="url(#cyanGlow)"/>
+
+  <path d="M0 132 H110 L144 166 H230" stroke="#FF7A00" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="230" cy="166" r="4" fill="#FF8C00" filter="url(#orangeGlow)"/>
+  <path d="M1200 132 H1090 L1056 166 H970" stroke="#FF7A00" stroke-opacity=".5" stroke-width="2"/>
+  <circle cx="970" cy="166" r="4" fill="#FF8C00" filter="url(#orangeGlow)"/>
+
+  <!-- title frame -->
+  <path d="M300 90 H900" stroke="url(#cyan)" stroke-width="2" filter="url(#cyanGlow)"/>
+  <path d="M390 218 H810" stroke="url(#orange)" stroke-width="2" filter="url(#orangeGlow)"/>
+
+  <text x="600" y="158" text-anchor="middle" fill="#F4FBFF"
+        font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="9">
+    DORFONALTZ
+  </text>
+
+  <text x="600" y="202" text-anchor="middle" fill="#00E5FF"
+        font-family="Courier New, monospace" font-size="23" font-weight="700" letter-spacing="5"
+        filter="url(#cyanGlow)">
+    PYTHON // AUTOMATION // AI
+  </text>
+
+  <text x="600" y="258" text-anchor="middle" fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600" letter-spacing="8">
+    HUMAN AFTER ALL
+  </text>
+
+  <text x="600" y="294" text-anchor="middle" fill="#FF9B20"
+        font-family="Courier New, monospace" font-size="15" font-weight="700" letter-spacing="4">
+    HUMAN INPUT  //  MACHINE OUTPUT  //  ENDLESS ITERATION
+  </text>
+
+  <!-- perspective-ish neon grid -->
+  <g clip-path="url(#gridClip)" opacity=".8">
+    <rect x="0" y="255" width="1200" height="175" fill="url(#grid)"/>
+    <path d="M600 255 L84 430 M600 255 L190 430 M600 255 L300 430 M600 255 L410 430 M600 255 L510 430
+             M600 255 L690 430 M600 255 L790 430 M600 255 L900 430 M600 255 L1010 430 M600 255 L1116 430"
+          stroke="#00E5FF" stroke-opacity=".20"/>
+    <path d="M0 330 H1200 M0 372 H1200 M0 404 H1200" stroke="#00E5FF" stroke-opacity=".18"/>
+  </g>
+
+  <!-- lower HUD labels -->
+  <g font-family="Courier New, monospace" font-size="12" font-weight="700">
+    <text x="34" y="402" fill="#00E5FF">SYS://DORFONALTZ</text>
+    <text x="1015" y="402" fill="#FF8C00">STATUS: ONLINE</text>
+  </g>
+</svg>
