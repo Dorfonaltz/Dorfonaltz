@@ -1,6 +1,6 @@
-<div align="center">
+<div al./assets/dorfonaltz-hero.svign="center">
 
-<img src="./assets/dorfonaltz-hero.svg" width="100%" alt="Dorfonaltz — Human After All"/>
+<img src="./dorfonaltz-hero.svg" width="100%" alt="Dorfonaltz — Human After All"/>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./neon-divider.svg" width="100%" alt="divisor"/>
 
 01 // IDENTITY
 
@@ -51,7 +51,7 @@ UPTIME ......... ∞
 
 Entre humano e máquina, eu prefiro a conexão.Ideia humana. Lógica digital. Execução inteligente.
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./neon-divider.svg" width="100%" alt="divisor"/>
 
 02 // LOADOUT
 
@@ -74,7 +74,7 @@ APIs • AI • Automation • Web • Scripts • Tools • Experiments
 
 </div>
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./neon-divider.svg" width="100%" alt="divisor"/>
 
 03 // AI INTERFACE
 
@@ -120,7 +120,7 @@ Automação, ferramenta ou projeto real.
 
 </div>
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./neon-divider.svg" width="100%" alt="divisor"/>
 
 04 // TELEMETRY
 
@@ -144,7 +144,7 @@ Automação, ferramenta ou projeto real.
 
 </div>
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./neon-divider.svg" width="100%" alt="divisor"/>
 
 05 // PROJECT GRID
 
@@ -188,7 +188,7 @@ Projetos web e interfaces.
 
 Quando seus próximos repositórios estiverem prontos, esta área pode virar uma central com os projetos reais e links diretos.
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./neon-divider.svg" width="100%" alt="divisor"/>
 
 06 // CURRENT TRANSMISSION
 
@@ -203,7 +203,7 @@ Quando seus próximos repositórios estiverem prontos, esta área pode virar uma
 │ [>] New technologies ........................... LOADING  │
 └────────────────────────────────────────────────────────────┘
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+<img src="./neon-divider.svg" width="100%" alt="divisor"/>
 
 <div align="center">
 
