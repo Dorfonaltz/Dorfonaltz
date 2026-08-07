@@ -1,93 +1,138 @@
 <div align="center">
 
-root@dorfonaltz:~$ whoami
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Dorfonaltz+%7C+Python+Developer;Automacao+%2B+Inteligencia+Artificial;Transformando+ideias+em+codigo;Construindo%2C+testando%2C+aprendendo...;Human+%2B+AI+%3D+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="./assets/dorfonaltz-hero.svg" width="100%" alt="Dorfonaltz — Human After All"/>
 
 <br>
 
-Python • HTML • Automação • Inteligência Artificial
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&pause=800&color=00E5FF&center=true&vCenter=true&width=820&lines=BOOTING+DORFONALTZ.SYS...;PYTHON+%E2%80%A2+AUTOMATION+%E2%80%A2+ARTIFICIAL+INTELLIGENCE;BUILD+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+IMPROVE+%E2%86%92+REPEAT;HUMAN+AFTER+ALL" alt="Typing animation"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Dorfonaltz&label=VISITAS&color=7F3FBF&style=for-the-badge" alt="Visualizações do perfil"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-001014?style=for-the-badge&labelColor=001014&color=00DFF7" />
+<img src="https://img.shields.io/badge/MODE-HUMAN_AFTER_ALL-001014?style=for-the-badge&labelColor=001014&color=FF8C00" />
+<img src="https://komarev.com/ghpvc/?username=Dorfonaltz&label=PROFILE%20VIEWS&color=00DFF7&style=for-the-badge" />
 
 </div>
 
-> about_me.exe
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+
+01 // IDENTITY
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
+> whoami
 
 class Dorfonaltz:
-    def __init__(self):
-        self.username = "Dorfonaltz"
-        self.code = ["Python", "HTML"]
-        self.interests = [
-            "Inteligência Artificial",
-            "Automação",
-            "Criação de ferramentas",
-            "APIs",
-            "Novas tecnologias"
-        ]
-        self.workflow = "Humano + IA 🤝"
-        self.status = "Sempre aprendendo e construindo 🚀"
+    stack = ["Python", "HTML"]
+    systems = ["Automation", "AI", "Tools"]
+    protocol = "Human After All"
 
-    def goal(self):
-        return "Transformar ideias em projetos reais."
+    def mission(self):
+        return "Turn ideas into working systems."
 
-Sou um desenvolvedor em evolução, apaixonado por tecnologia, automação e Inteligência Artificial.
+</td>
+<td width="46%" valign="top">
 
-Gosto principalmente de usar Python para criar scripts, ferramentas e automações, além de explorar HTML e desenvolvimento web.
+> system.status
 
-Minha ideia é simples: aprender, testar, quebrar, corrigir e transformar ideias em projetos que realmente funcionem.
+USER ........... Dorfonaltz
+CORE ........... Python
+INTERFACE ...... HTML
+MODULE ......... Automation
+CO-PILOT ....... Artificial Intelligence
+STATE .......... BUILDING
+UPTIME ......... ∞
 
-> tech_stack --list
+</td>
+</tr>
+</table>
+
+Entre humano e máquina, eu prefiro a conexão.Ideia humana. Lógica digital. Execução inteligente.
+
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+
+02 // LOADOUT
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial"/>
-<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-111827?style=for-the-badge&logo=robotframework&logoColor=white" alt="Automação"/>
+<img src="https://img.shields.io/badge/PYTHON-02070A?style=for-the-badge&logo=python&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/HTML5-02070A?style=for-the-badge&logo=html5&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/AUTOMATION-02070A?style=for-the-badge&logo=githubactions&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/OPENAI-02070A?style=for-the-badge&logo=openai&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/GIT-02070A?style=for-the-badge&logo=git&logoColor=FF8C00" />
+<img src="https://img.shields.io/badge/GITHUB-02070A?style=for-the-badge&logo=github&logoColor=00E5FF" />
+
+<br><br>
+
+APIs • AI • Automation • Web • Scripts • Tools • Experiments
 
 </div>
 
-Atualmente explorando
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
-APIs • JavaScript • CSS • Banco de Dados • GitHub Actions • IA • Automação
+03 // AI INTERFACE
 
-> ai --workflow
+<table>
+<tr>
+<td width="33%" align="center">
 
-🤖 A Inteligência Artificial faz parte do meu processo de desenvolvimento.
+IDEA
 
-Uso IA para:
+💡Human Input
 
-💡 Tirar ideias do papel
+Conceito, objetivo e criatividade.
 
-🐍 Programar em Python
+</td>
+<td width="34%" align="center">
 
-⚙️ Criar automações
+PROCESS
 
-🐛 Encontrar e corrigir bugs
+🤖AI Amplification
 
-🧠 Estudar tecnologias novas
+Pesquisa, código, debug e iteração.
 
-🚀 Criar protótipos rapidamente
+</td>
+<td width="33%" align="center">
 
-🛠️ Desenvolver ferramentas
+OUTPUT
 
-📈 Aumentar produtividade
+⚡Working System
 
-IA não substitui minhas ideias — ela me ajuda a construí-las mais rápido.
+Automação, ferramenta ou projeto real.
 
-> github --stats
+</td>
+</tr>
+</table>
+
+[ HUMAN ] ─────► [ IDEA ] ─────► [ AI / CODE ] ─────► [ SYSTEM ]
+     ▲                                                   │
+     └────────────────── ITERATE ◄───────────────────────┘
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorfonaltz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+“IA não substitui minhas ideias — ela aumenta o que eu consigo construir.”
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorfonaltz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</div>
+
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+
+04 // TELEMETRY
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorfonaltz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=02070A&title_color=00E5FF&text_color=D6F8FF&icon_color=FF8C00" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorfonaltz&layout=compact&langs_count=8&hide_border=true&bg_color=02070A&title_color=00E5FF&text_color=D6F8FF" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Dorfonaltz&hide_border=true&background=02070A&ring=00E5FF&fire=FF8C00&currStreakLabel=00E5FF&sideLabels=D6F8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=78AAB3" />
 
 </div>
 
@@ -95,105 +140,87 @@ IA não substitui minhas ideias — ela me ajuda a construí-las mais rápido.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dorfonaltz&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dorfonaltz&bg_color=02070A&color=B9F7FF&line=00E5FF&point=FF8C00&area=true&area_color=003A46&hide_border=true" width="100%" />
 
 </div>
 
-> github --activity
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+
+05 // PROJECT GRID
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+01 // AUTOMATION
+
+SYSTEM: BUILDING
+
+🐍 Python⚙️ Automação🤖 IA
+
+Primeiro módulo em desenvolvimento.
+
+</td>
+<td width="34%" valign="top">
+
+02 // AI TOOL
+
+SYSTEM: PLANNED
+
+🧠 Artificial Intelligence🐍 Python🔌 APIs
+
+Experimentos com ferramentas inteligentes.
+
+</td>
+<td width="33%" valign="top">
+
+03 // WEB
+
+SYSTEM: PLANNED
+
+🌐 HTML⚡ Interface🧪 Experimentos
+
+Projetos web e interfaces.
+
+</td>
+</tr>
+</table>
+
+Quando seus próximos repositórios estiverem prontos, esta área pode virar uma central com os projetos reais e links diretos.
+
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
+
+06 // CURRENT TRANSMISSION
+
+┌────────────────────────────────────────────────────────────┐
+│ DORFONALTZ // DEVELOPMENT CHANNEL                         │
+├────────────────────────────────────────────────────────────┤
+│ [●] Python ..................................... ACTIVE   │
+│ [●] Artificial Intelligence .................... ACTIVE   │
+│ [●] Automation ................................. ACTIVE   │
+│ [●] HTML / Web ................................. ACTIVE   │
+│ [>] APIs ....................................... LOADING  │
+│ [>] New technologies ........................... LOADING  │
+└────────────────────────────────────────────────────────────┘
+
+<img src="./assets/neon-divider.svg" width="100%" alt="divisor"/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dorfonaltz&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de atividade"/>
+HUMAN AFTER ALL
 
-</div>
+NOT JUST CODE // NOT JUST MACHINE
 
-> snake --eat-contributions
+IDEAS // LOGIC // RHYTHM // CREATION
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dorfonaltz/Dorfonaltz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dorfonaltz/Dorfonaltz/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Dorfonaltz/Dorfonaltz/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> projects --featured
-
-🐍 Projeto 01
-
-Em construção...
-
-Python Automação
-
-🤖 Projeto 02
-
-Em construção...
-
-Python IA
-
-🌐 Projeto 03
-
-Em construção...
-
-HTML Web
-
-<!--
-Quando você tiver projetos que quiser destacar, pode substituir a seção acima por cards como este:
-
-<a href="https://github.com/Dorfonaltz/NOME-DO-REPOSITORIO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dorfonaltz&repo=NOME-DO-REPOSITORIO&theme=tokyonight&hide_border=true" />
-</a>
--->
-
-> current_status
-
-🐍 Evoluindo em Python
-🤖 Explorando Inteligência Artificial
-⚙️ Criando automações
-🌐 Aprendendo desenvolvimento web
-🧪 Testando ideias e novas tecnologias
-🚀 Construindo projetos cada vez melhores
-
-> connect
-
-<div align="center">
+<br>
 
 <a href="https://github.com/Dorfonaltz">
-  <img src="https://img.shields.io/badge/GitHub-Dorfonaltz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/ENTER_THE_GRID-DORFONALTZ-001014?style=for-the-badge&logo=github&logoColor=00E5FF&color=001014" />
 </a>
 
-<!--
-Quando quiser adicionar suas redes, remova os comentários e troque os links:
+<br><br>
 
-<a href="SEU_LINK_DO_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="SEU_LINK_DO_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
--->
-
-</div>
-
-<div align="center">
-
-while(alive) { learn(); build(); improve(); }
-
-Código é a ferramenta. O objetivo é transformar ideias em realidade.
-
-<br>
-
-⭐ Se algum projeto te ajudar, considere deixar uma estrela!
-
-<br>
-
-Dorfonaltz © 2026
+END OF LINE_
 
 </div>
