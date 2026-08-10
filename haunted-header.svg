@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dorfonaltz — Night Shift</title>
+  <desc id="desc">Dark purple horror-themed banner with a mischievous spectral mascot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050308"/>
+      <stop offset="0.55" stop-color="#10071b"/>
+      <stop offset="1" stop-color="#220a38"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#f4eaff"/>
+      <stop offset="0.65" stop-color="#cba6f7"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ghost" cx="42%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.65" stop-color="#6d28d9"/>
+      <stop offset="1" stop-color="#3b0764"/>
+    </radialGradient>
+    <linearGradient id="fog" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#c4b5fd" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="13" result="noise"/>
+      <feColorMatrix in="noise" type="saturate" values="0" result="mono"/>
+      <feComponentTransfer in="mono" result="faded">
+        <feFuncA type="table" tableValues="0 0.05"/>
+      </feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="faded" mode="screen"/>
+    </filter>
+    <clipPath id="panel"><rect x="1" y="1" width="1198" height="358" rx="26"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#panel)" filter="url(#grain)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <circle cx="1010" cy="113" r="124" fill="url(#moon)" opacity="0.38"/>
+    <circle cx="1010" cy="113" r="69" fill="#d8c8ff" opacity="0.9"/>
+    <circle cx="1042" cy="86" r="69" fill="#130820"/>
+
+    <g fill="#8b5cf6" opacity="0.7">
+      <circle cx="78" cy="62" r="2"/><circle cx="174" cy="101" r="1.5"/>
+      <circle cx="273" cy="45" r="1.8"/><circle cx="405" cy="75" r="1.2"/>
+      <circle cx="516" cy="42" r="2"/><circle cx="642" cy="88" r="1.5"/>
+      <circle cx="742" cy="52" r="1.2"/><circle cx="861" cy="93" r="2"/>
+      <circle cx="1118" cy="54" r="1.5"/><circle cx="1150" cy="142" r="1.2"/>
+    </g>
+
+    <path d="M0 293 C120 260 230 322 352 288 C485 250 573 320 711 287 C860 250 1018 319 1200 268 V360 H0Z" fill="#09040f"/>
+    <path d="M0 306 C165 274 260 335 430 300 C600 267 753 327 924 295 C1035 274 1110 286 1200 303 V360 H0Z" fill="#130820" opacity="0.94"/>
+    <path d="M-80 275 C170 232 316 313 560 268 C805 224 1020 305 1280 248" fill="none" stroke="url(#fog)" stroke-width="36" filter="url(#soft)"/>
+
+    <g opacity="0.8" fill="#050308">
+      <path d="M863 290v-68l16-15 15 15v68z"/><path d="M900 290v-93l18-21 18 21v93z"/>
+      <path d="M939 290v-60l14-13 14 13v60z"/>
+      <rect x="885" y="244" width="58" height="46"/>
+      <rect x="912" y="205" width="11" height="24" fill="#7c3aed" opacity="0.45"/>
+    </g>
+
+    <g transform="translate(932 137)">
+      <ellipse cx="91" cy="154" rx="112" ry="23" fill="#6d28d9" opacity="0.2" filter="url(#soft)"/>
+      <path d="M15 90 L-5 44 L39 62 Q58 34 86 29 L108 -7 L124 36 Q158 46 175 73 L218 57 L193 100 Q199 118 192 139 Q181 173 146 187 L150 213 L122 194 Q96 203 69 195 L42 215 L46 185 Q18 169 6 142 Q-4 116 15 90Z" fill="url(#ghost)" stroke="#a855f7" stroke-width="3"/>
+      <path d="M43 91 L79 99 L57 120 Z" fill="#ff3158" filter="url(#glow)"/>
+      <path d="M151 91 L115 99 L137 120 Z" fill="#ff3158" filter="url(#glow)"/>
+      <path d="M48 136 Q98 173 157 133 Q145 177 100 180 Q61 177 48 136Z" fill="#f9f5ff"/>
+      <path d="M67 148v18M89 155v21M112 154v22M135 146v19" stroke="#4c1d95" stroke-width="4" stroke-linecap="round"/>
+      <path d="M27 121 Q-2 128 -18 153 Q10 150 31 141" fill="#5b21b6"/>
+      <path d="M174 121 Q204 126 221 151 Q191 150 169 141" fill="#5b21b6"/>
+    </g>
+
+    <g transform="translate(74 80)">
+      <text x="0" y="0" fill="#9ca3af" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="5">WELCOME TO THE NIGHT SHIFT</text>
+      <text x="0" y="82" fill="#f5f3ff" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="70" font-weight="900" letter-spacing="3">DORFONALTZ</text>
+      <rect x="1" y="104" width="94" height="4" rx="2" fill="#a855f7"/>
+      <rect x="105" y="104" width="28" height="4" rx="2" fill="#84cc16"/>
+      <text x="0" y="150" fill="#c4b5fd" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="2">INFRASTRUCTURE  •  AUTOMATION  •  CODE</text>
+      <text x="0" y="196" fill="#8b8296" font-family="Courier New, monospace" font-size="16">building useful things after midnight_</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="26" fill="none" stroke="#4c1d95" stroke-width="2"/>
+</svg>
