@@ -58,20 +58,30 @@ Sou **Rodolfo Vonsoski**, profissional de tecnologia em evolução constante, co
   </tr>
 </table>
 
-## 🔮 Atividade
+## 🔮 Transmissão atual
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dorfonaltz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0614&title_color=a855f7&text_color=ddd6fe&icon_color=84cc16" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorfonaltz&layout=compact&langs_count=6&hide_border=true&bg_color=0d0614&title_color=a855f7&text_color=ddd6fe" alt="Linguagens mais usadas" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟣 Projeto em foco</h3>
+      <p><strong><a href="https://github.com/Dorfonaltz/reptriq">REPTRIQ</a></strong></p>
+      <p>Evoluindo a experiência de treino, os registros de carga e a sincronização entre dispositivos.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌒 Status</h3>
+      <p><strong>BUILDING AFTER MIDNIGHT</strong></p>
+      <p>Aprendendo, testando e transformando ideias em projetos que funcionam.</p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 <div align="center">
 
 <code>THE NIGHT IS DARK — THE TERMINAL IS BRIGHT</code>
+
+<br /><br />
 
 <sub>Perfil em constante construção. Volte depois da meia-noite.</sub>
 
